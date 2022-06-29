@@ -1,0 +1,1 @@
+Alter table employees Rename column Lname to lname;
